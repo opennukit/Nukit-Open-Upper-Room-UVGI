@@ -15,12 +15,10 @@ Above the fixture the output level is approximately:
 
 Potentially allowing for e-ACH levels over 100 if deployed at 9-12m2 intervals
 
-This version is the best one to start with, it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
+[This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
 
-Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this design can easily use the more easy-to-source long and straight E27 UVC CFL bulbs by adding additional layers of louvers.
+Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this fixture design can accommodate the more easy-to-source long and straight E27 UVC CFL bulbs simply by adding additional layers of louvers.
 
-
-Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing.
 ![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
 
 **Wall-Mount Style- Wood**
