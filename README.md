@@ -11,4 +11,8 @@ If you attempt to deploy or research UVGI without the above equipment, you will 
 
 [Bored Ape creator says UV lights at ApeFest burned attendees’ eyes and skin](https://arstechnica.com/health/2023/11/bored-ape-creator-says-uv-lights-at-apefest-burned-attendees-eyes-and-skin/)
 
+There are reference Nukit Open Upper-Room UVGI Fixtures available for hand tools, lasercutting, 3D printing, and sheet metal fabrication. All are designed to be adapted to local materials and conditions by local engineers and researchers. Read more about the project here.
+
+For an excellent overview of Upper-Room UVGI, see Joey Fox's article ["Intro to Upper-Room UVGI"](https://itsairborne.com/intro-to-upper-room-uvgi-a36e00862c04)
+
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
