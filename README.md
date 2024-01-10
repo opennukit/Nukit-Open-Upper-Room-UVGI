@@ -27,4 +27,5 @@ The following two guides should be considered a prerequisite for any Open Upper-
 
 (Sorry for the MediaFire link, please let us know if you are willing to host PDFs with potential DMCA issues on a private server)
 
-![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
+![Upper-Room UVGI Diagram](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/UR-UVGI%20Diagram.jpeg?raw=true)
+)
