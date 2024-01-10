@@ -1,5 +1,5 @@
-# Nukit-Open-Upper-Room-UVGI
-Nukit Open Upper-Room UVGI (Ultraviolet Germicidal Irradiation) Fixtures are Open Hardware devices for researching and developing localized Upper-Room UVGI solutions. They are not a DIY project and should only be used with UVC lights by qualified professionals. If you would like to learn about Upper-Room UVGI you can use them with safe, readily available white lights and a lux meter. 
+# Nukit Open Upper Room UVGI
+Nukit Open Upper-Room UVGI (Ultraviolet Germicidal Irradiation) fixtures are Open Hardware devices for researching and developing localized Upper-Room UVGI solutions. They are not a DIY project and should only be used with UVC lights by qualified professionals. If you would like to learn about Upper-Room UVGI you can use them with safe, readily available white lights and a lux meter. 
 
 Qualified professionals will need a UVC meter that measures 254nm to 0.01 mW/cm2 resolution, a protective face shield that has UV blocking characteristics verified with that UVC meter, long sleeves, and lightweight gloves.
 
@@ -11,7 +11,7 @@ If you attempt to deploy or research UVGI without the above equipment, you will 
 
 [Bored Ape creator says UV lights at ApeFest burned attendees’ eyes and skin](https://arstechnica.com/health/2023/11/bored-ape-creator-says-uv-lights-at-apefest-burned-attendees-eyes-and-skin/)
 
-There are reference Nukit Open Upper-Room UVGI Fixtures available for hand tools, lasercutting, 3D printing, and sheet metal fabrication. All are designed to be adapted to local materials and conditions by local engineers and researchers. Read more about the project here.
+There are reference Nukit Open Upper-Room UVGI fixtures available for hand tools, lasercutting, 3D printing, and sheet metal fabrication. All are designed to be adapted to local materials and conditions by local engineers and researchers. Read more about the project here.
 
 For an excellent overview of Upper-Room UVGI, see Joey Fox's article ["Intro to Upper-Room UVGI"](https://itsairborne.com/intro-to-upper-room-uvgi-a36e00862c04)
 
