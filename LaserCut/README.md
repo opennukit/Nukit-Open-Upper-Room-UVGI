@@ -18,13 +18,13 @@ Diagram of safe versus germicidal zones:
 
 [This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), as it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
 
-Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this fixture design can accommodate the more easy-to-source long and straight E27 UVC CFL bulbs (sorry no links for safety reasons)simply by adding additional layers of louvers. 
+Note- coiled E27 UVC CFL bulbs have become difficult to find, but this fixture design can accommodate the more easy-to-source (long and straight E27 UVC CFL bulbs)[https://www.amazon.com/coospider-repta-Sanitizer-Germicidal-Replacement-Disinfection/dp/B0CG39F65Z/] simply by adding additional layers of louvers. (NOTE: DO NOT USE UVC LAMPS UNLESS YOU ARE A QUALIFIED PROFESSIONAL WITH A UVC METER- USE WHITE LIGHTS FOR TESTING)
 
 ![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
 
 **Wall-Mount Style- Wood**
 ---
-This style has a more tightly controlled output than the above pendent-style lamp, making it much less powerful but also far easier and safer to install. Using aluminum tape inside the box will greatly improve its efficiency. It uses low-cost T5 mercury vapor UVC lamps. The fixture can easily be extended to accommodate them any length up to 150cm (sorry no links for safety reasons).
+This style has a more tightly controlled output than the above pendent-style lamp, making it much less powerful but also far easier and safer to install. Using aluminum tape inside the box will greatly improve its efficiency. It uses two [6W T5 mercury vapor UVC lamps](https://www.amazon.com/UV-Sanitizer-253-7nm-wavelength-Bathroom/dp/B0B5CV9PB5). The fixture can easily be extended to accommodate them in any length up to 150cm. (NOTE: DO NOT USE UVC LAMPS UNLESS YOU ARE A QUALIFIED PROFESSIONAL WITH A UVC METER- USE WHITE LIGHTS FOR TESTING)
 
 ![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Wood.jpg?raw=true)
 
