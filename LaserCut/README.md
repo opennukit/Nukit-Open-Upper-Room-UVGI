@@ -32,7 +32,10 @@ This style has a more tightly controlled output than the above pendent-style lam
 
 **Wall-Mount Style- Metal**
 ---
-Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing.
+An all-metal version of the Nukit Open Upper Room UVGI Wall-Mount fixture. It is designed for local manufacturing and commercial deployment in any country. It can be made in most sheet metal shops equipped with laser or waterjet cutters for a fraction of the cost of importing UR-UVGI devices from overseas.
+
+[You can download the plans here.](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Wall%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Wall%20Fixture%201.6mm%20Aluminum)
+
 ![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Metal](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Metal.jpg?raw=true)
 
 
