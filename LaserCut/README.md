@@ -18,7 +18,7 @@ Diagram of safe versus germicidal zones:
 
 [This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), as it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling. The assembly instructions are [here](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture-Assembly.pdf)
 
-Note- coiled E27 UVC CFL bulbs have become difficult to find, but this fixture design can accommodate the more easy-to-source [long and straight E27 UVC CFL bulbs])https://www.amazon.com/coospider-repta-Sanitizer-Germicidal-Replacement-Disinfection/dp/B0CG39F65Z/) simply by adding additional layers of louvers. (NOTE: DO NOT USE UVC LAMPS UNLESS YOU ARE A QUALIFIED PROFESSIONAL WITH A UVC METER- USE WHITE LIGHTS FOR TESTING)
+Note- coiled E27 UVC CFL bulbs have become difficult to find, but this fixture design can accommodate the more easy-to-source [long and straight E27 UVC CFL bulbs](https://www.amazon.com/coospider-repta-Sanitizer-Germicidal-Replacement-Disinfection/dp/B0CG39F65Z/) simply by adding additional layers of louvers. (NOTE: DO NOT USE UVC LAMPS UNLESS YOU ARE A QUALIFIED PROFESSIONAL WITH A UVC METER- USE WHITE LIGHTS FOR TESTING)
 
 ![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
 
