@@ -1,6 +1,6 @@
 # 3D Printed Nukit Open Upper Room UVGI
 
-This is a pendant-style UR-UVGI fixture that can be 3D printed in any size on almost any FDM or resin printer. STL samples are included, but for best results, use the parametric OpenSCAD model to build a fixture to suit your specific requirements and print bed size. Due to heat from the mercury vapor lamp, FDM prints should be done in PETG or similar higher temperature filament.
+This is a pendant-style UR-UVGI fixture that can be 3D printed in any size on almost any FDM or resin printer. STL samples are included, but for best results, use the parametric OpenSCAD model to build a fixture to suit your specific requirements and print bed size. Due to heat from the mercury vapor lamp, FDM prints should not be done with PLA but instead with PETG or similar higher temperature filament.
 
 OpenSCAD is a code-based CAD modeling program. The attached scad files can easily be edited using the sliders on the right and then exported as an STL for 3D printing. Be sure to check the angle of illumination for each modified design and ensure that it fits the room.
 
