@@ -1,7 +1,7 @@
 # Nukit Open Upper Room UVGI
 Nukit Open Upper-Room UVGI (Ultraviolet Germicidal Irradiation) fixtures are Open Hardware devices for researching and developing localized Upper-Room UVGI solutions. They are not a DIY project and should only be used with UVC lights by qualified professionals. If you would like to learn about Upper-Room UVGI you can use them with safe, readily available white lights and a lux meter. 
 
-Qualified professionals will need a UVC meter that measures 254nm to 0.01 mW/cm2 resolution, a protective face shield that has UV blocking characteristics verified with that UVC meter, long sleeves, and lightweight gloves.
+Qualified professionals will need a UVC meter that measures 254nm to 0.01 mW/cm2 resolution, a protective face shield that has UV blocking characteristics verified by that UVC meter, long sleeves, and lightweight gloves.
 
 If you attempt to deploy or research UVGI without the above equipment, you will likely become a news story that further harms this potentially life-saving technology. 
 
