@@ -1,6 +1,10 @@
-**About the Nukit Open Air Purifier**
+**3D Printed Nukit Open Upper Room UVGI**
 ---
-Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
+OpenSCAD is a code based CAD modeling program. The attached scad files can easily be edited using the sliders on the right and then exported as an STL for 3D printing. Be sure to check the angle of illumination for each modified design and ensure that it fits the room.
+
+[Download OpenSCAD](http://openscad.org).
+
+[Basic OpenSCAD tutorial](https://cubehero.com/2013/11/19/know-only-10-things-to-be-dangerous-in-openscad/)
 
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
 
