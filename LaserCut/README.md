@@ -4,7 +4,7 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 
 ![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
 ![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Wood.jpg?raw=true)
-![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Metal]([https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Metal.jpg?raw=true))
+![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Metal](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Metal.jpg?raw=true))
 
 **General Guidelines**
 ---
