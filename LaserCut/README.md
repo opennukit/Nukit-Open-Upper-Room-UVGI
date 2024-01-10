@@ -6,7 +6,7 @@ Laser-Cut Nukit Open Upper-Room UVGI fixtures are designed to be made on laser d
 ---
 This is a very powerful, very low-cost mitigation tool that, with appropriate training, can be rapidly deployed in disaster areas, field hospitals, refugee camps, commandeered auditoriums and gymnasiums. Any place that is large, crowded, has high ceilings and is high risk for aerosol transmission. 
 
-- When cut out of 2mm plywood the cost is about 8USD. Combined with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/) (5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/) (10USD) and a UVC CFL bulb there is very little light leakage below the fixture. The irradiation field is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
+When cut out of 2mm plywood the cost is about 8USD. Combined with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/) (5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/) (10USD) and a UVC CFL bulb there is very little light leakage below the fixture. The irradiation field is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
 
 At and above ahorizontal plane the output level is approximately:  
 16μW/cm2 @ 1m  
