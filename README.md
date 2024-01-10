@@ -15,4 +15,6 @@ There are reference Nukit Open Upper-Room UVGI fixtures available for hand tools
 
 For an excellent overview of Upper-Room UVGI, see Joey Fox's article ["Intro to Upper-Room UVGI"](https://itsairborne.com/intro-to-upper-room-uvgi-a36e00862c04)
 
+There are videos featuring the fabrication and installation of Open Upper-Room UVGI [here](https://youtu.be/QSnUce9xdNo) and [here](https://youtu.be/VVzKQwjtzhc). However, once again, this is not a DIY project, and non-professional experimentation should be done with safe, white light.
+
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
