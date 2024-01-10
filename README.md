@@ -3,7 +3,7 @@ Nukit Open Upper-Room UVGI (Ultraviolet Germicidal Irradiation) Fixtures are Ope
 
 Qualified professionals will need a UVC meter that measures 254nm to 0.01 mW/cm2 resolution, a protective face shield that has UV blocking characteristics verified with that UVC meter, long sleeves, and lightweight gloves.
 
-If you attempt to deploy or research UVGI without the above equipment, you will likely become a news story that further harms the public impression of this potentially life-saving technology. 
+If you attempt to deploy or research UVGI without the above equipment, you will likely become a news story that further harms this potentially life-saving technology. 
 
 [Geneseo faculty say an experiment using ultraviolet light to kill COVID-19 damaged their eyes](https://www.wxxinews.org/local-news/2022-04-14/geneseo-faculty-say-uv-c-light-to-target-covid-damaged-their-eyes)
 
