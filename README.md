@@ -17,4 +17,10 @@ For an excellent overview of Upper-Room UVGI, see Joey Fox's article [Intro to U
 
 There are videos featuring the fabrication and installation of Open Upper-Room UVGI [here](https://youtu.be/QSnUce9xdNo) and [here](https://youtu.be/VVzKQwjtzhc). However, once again, this is not a DIY project, and non-professional experimentation should be done with safe, white light.
 
+The following two guides should be considered a prerequisite for any Open Upper-Room UVGI fabrication, installation, or experimentation.
+
+[Guidelines for the Application of Upper-Room Ultraviolet Germicidal Irradiation for Preventing Transmission of Airborne Contagion—Part I- Basic Principles](https://www.mediafire.com/file/c3c6aij5ctm65wk/Guidelines_for_the_Application_of_Upper-Room_Ultraviolet_Germicidal_Irradiation_for_Preventing_Transmission_of_Airborne_Contagion%25E2%2580%2594Part_I-_Basic_Principles.pdf/file)
+[Guidelines for the Application of Upper-Room Ultraviolet Germicidal Irradiation for Preventing Transmission of Airborne Contagion—Part II/ Design and Operation Guidance](https://www.mediafire.com/file/8tyhdqi13e3368i/Guidelines_for_the_Application_of_Upper-Room_Ultraviolet_Germicidal_Irradiation_for_Preventing_Transmission_of_Airborne_Contagion%25E2%2580%2594Part_II-_Design_and_Operation_Guidance.pdf/file)
+(Sorry for the MediaFire link, please let us know if you are willing to host PDFs with potential DMCA issues on a private server)
+
 ![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
