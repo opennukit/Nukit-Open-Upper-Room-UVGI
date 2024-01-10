@@ -6,7 +6,7 @@ OpenSCAD is a code based CAD modeling program. The attached scad files can easil
 
 [Basic OpenSCAD tutorial](https://cubehero.com/2013/11/19/know-only-10-things-to-be-dangerous-in-openscad/)
 
-![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
+![OpenSCAD Nukit Open Upper Room UVGI](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/3D%20Printed/OpenSCAD%20Nukit%20Open%20Upper%20Room%20UVGI.jpg?raw=true)
 
 **General Guidelines**
 ---
