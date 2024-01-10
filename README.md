@@ -21,7 +21,7 @@ The following two guides should be considered a prerequisite for any Open Upper-
 
 [Guidelines for the Application of Upper-Room Ultraviolet Germicidal Irradiation for Preventing Transmission of Airborne Contagion—Part I- Basic Principles](https://www.mediafire.com/file/c3c6aij5ctm65wk/Guidelines_for_the_Application_of_Upper-Room_Ultraviolet_Germicidal_Irradiation_for_Preventing_Transmission_of_Airborne_Contagion%25E2%2580%2594Part_I-_Basic_Principles.pdf/file)
 
-[Guidelines for the Application of Upper-Room Ultraviolet Germicidal Irradiation for Preventing Transmission of Airborne Contagion—Part II/ Design and Operation Guidance](https://www.mediafire.com/file/8tyhdqi13e3368i/Guidelines_for_the_Application_of_Upper-Room_Ultraviolet_Germicidal_Irradiation_for_Preventing_Transmission_of_Airborne_Contagion%25E2%2580%2594Part_II-_Design_and_Operation_Guidance.pdf/file)
+[Guidelines for the Application of Upper-Room Ultraviolet Germicidal Irradiation for Preventing Transmission of Airborne Contagion—Part II- Design and Operation Guidance](https://www.mediafire.com/file/8tyhdqi13e3368i/Guidelines_for_the_Application_of_Upper-Room_Ultraviolet_Germicidal_Irradiation_for_Preventing_Transmission_of_Airborne_Contagion%25E2%2580%2594Part_II-_Design_and_Operation_Guidance.pdf/file)
 
 (Sorry for the MediaFire link, please let us know if you are willing to host PDFs with potential DMCA issues on a private server)
 
