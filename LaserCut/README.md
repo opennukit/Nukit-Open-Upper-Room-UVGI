@@ -1,4 +1,4 @@
-**About the Nukit Open Air Purifier**
+**Laser-Cut Nukit Open Upper Room UVGI**
 ---
 Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
 
