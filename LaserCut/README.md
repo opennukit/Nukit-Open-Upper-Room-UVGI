@@ -2,7 +2,9 @@
 ---
 Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
 
-![Nukit Open Air Purifier v1.0](https://github.com/opennukit/Nukit-Open-Air-Purifier/blob/main/Nukit-Open-Air-Purifier-3-v1.0.jpg?raw=true)
+![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
+![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Wood.jpg?raw=true)
+![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Metal]([https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Metal.jpg?raw=true))
 
 **General Guidelines**
 ---
