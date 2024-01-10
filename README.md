@@ -13,7 +13,7 @@ If you attempt to deploy or research UVGI without the above equipment, you will 
 
 There are reference Nukit Open Upper-Room UVGI fixtures available for hand tools, lasercutting, 3D printing, and sheet metal fabrication. All are designed to be adapted to local materials and conditions by local engineers and researchers. Read more about the project here.
 
-For an excellent overview of Upper-Room UVGI, see Joey Fox's article ["Intro to Upper-Room UVGI"](https://itsairborne.com/intro-to-upper-room-uvgi-a36e00862c04)
+For an excellent overview of Upper-Room UVGI, see Joey Fox's article [Intro to Upper-Room UVGI](https://itsairborne.com/intro-to-upper-room-uvgi-a36e00862c04)
 
 There are videos featuring the fabrication and installation of Open Upper-Room UVGI [here](https://youtu.be/QSnUce9xdNo) and [here](https://youtu.be/VVzKQwjtzhc). However, once again, this is not a DIY project, and non-professional experimentation should be done with safe, white light.
 
