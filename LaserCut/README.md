@@ -11,12 +11,13 @@ When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅL
 Above the fixture the output level is approximately:  
 16μW/cm2 @ 1m  
 7μW/cm2 @ 1.5m  
-4μW/cm2 @ 2m  
+4μW/cm2 @ 2m
+
 Potentially allowing for e-ACH levels over 100 if deployed at 9-12m2 intervals
 
 This version is the best one to start with, it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
 
-Note- coiled E27 UVC CFL bulbs are becoming harder to find but this design can easily use the more easy to source long and straight E27 UVC CFL bulbs by adding additional layers of louvers.
+Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this design can easily use the more easy-to-source long and straight E27 UVC CFL bulbs by adding additional layers of louvers.
 
 
 Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing.
