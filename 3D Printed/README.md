@@ -10,3 +10,20 @@ OpenSCAD is a code-based CAD modeling program. The attached scad files can easil
 
 ![OpenSCAD Nukit Open Upper Room UVGI](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/3D%20Printed/OpenSCAD%20Nukit%20Open%20Upper%20Room%20UVGI.jpg?raw=true)
 
+**License**
+---
+All Nukit Open Air Purifiers are released under GPL-3. 
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+TLDR;
+(For our purposes, “software” refers to the digital files used to make Nukit Open Air Purifiers)
+
+1. Anyone can copy, modify and distribute this software.
+2. You have to include the license and copyright notice with each and every distribution.
+3. You can use this software privately.
+4. You can use this software for commercial purposes.
+5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
+6. If you modify it, you have to indicate changes made to the code.
+7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
+8. This software is provided without warranty.
+9. The software author or license can not be held liable for any damages inflicted by the software.
