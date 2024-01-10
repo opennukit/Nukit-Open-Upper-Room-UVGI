@@ -6,7 +6,7 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 ---
 This is a very powerful, very low-cost mitigation tool that can be rapidly deployed in disaster areas, field hospitals, refugee camps, commandeered auditoriums and gymnasiums- any place that is large, crowded, has high ceilings and is high risk for aerosol transmission. 
 
-- When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture. The field of irradiation is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
+- When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture. The irradiation field is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
 
 At and above ahorizontal plane the output level is approximately:  
 16μW/cm2 @ 1m  
@@ -16,15 +16,16 @@ At and above ahorizontal plane the output level is approximately:
 Diagram of safe versus germicidal zones:
 ![Diagram of safe versus germicidal zones](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Diagram%20of%20safe%20versus%20germicidal%20zones.png?raw=true)
 
-[This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
+[This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), as it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
 
-Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this fixture design can accommodate the more easy-to-source long and straight E27 UVC CFL bulbs simply by adding additional layers of louvers.
+Note- coiled E27 UVC CFL bulbs are becoming harder to find, but this fixture design can accommodate the more easy-to-source long and straight E27 UVC CFL bulbs (sorry no links for safety reasons)simply by adding additional layers of louvers. 
 
 ![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Pendent-Wood.jpg?raw=true)
 
 **Wall-Mount Style- Wood**
 ---
-Nukit Open Air Purifiers are designed to be made with any 3mm or 1/8th inch material that is safe to laser cut. Care should be taken not to use materials prone to off-gassing.
+This style has a more tightly controlled output than the above pendent-style lamp, making it much less powerful but also far easier and safer to install. Using aluminum tape inside the box will greatly improve its efficiency. It uses low-cost T5 mercury vapor UVC lamps. The fixture can easily be extended to accommodate them any length up to 150cm (sorry no links for safety reasons).
+
 ![Laser-Cut Nukit Open Upper Room UVGI Wall-Mount-Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Nukit-Open-Upper-Room-UVGI-Wall-Mount-Wood.jpg?raw=true)
 
 **Wall-Mount Style- Metal**
