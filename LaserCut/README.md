@@ -9,8 +9,11 @@ This is a very powerful, very low-cost mitigation tool that can be rapidly deplo
 When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture.
 
 Above the fixture the output level is approximately:
+
 16μW/cm2 @ 1m
+
 7μW/cm2 @ 1.5m
+
 4μW/cm2 @ 2m
 
 Potentially allowing for e-ACH levels over 100 if deployed at 9-12m2 intervals
