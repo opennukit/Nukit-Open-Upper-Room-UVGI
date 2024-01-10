@@ -6,9 +6,9 @@ Nukit Open Air Purifiers are Open Hardware devices for improving indoor air qual
 ---
 This is a very powerful, very low-cost mitigation tool that can be rapidly deployed in disaster areas, field hospitals, refugee camps, commandeered auditoriums and gymnasiums- any place that is large, crowded, has high ceilings and is high risk for aerosol transmission. 
 
-When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture.
+- When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture. The field of irradiation is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
 
-Above the fixture the output level is approximately:  
+At and above ahorizontal plane the output level is approximately:  
 16μW/cm2 @ 1m  
 7μW/cm2 @ 1.5m  
 4μW/cm2 @ 2m
