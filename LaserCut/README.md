@@ -14,7 +14,7 @@ Above the fixture the output level is approximately:
 4μW/cm2 @ 2m
 
 Diagram of safe versus germicidal zones
-![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood]https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Diagram%20of%20safe%20versus%20germicidal%20zones.png?raw=true)
+![Laser-Cut Nukit Open Upper Room UVGI Pendent Wood](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/blob/main/LaserCut/Diagram%20of%20safe%20versus%20germicidal%20zones.png?raw=true)
 
 [This version is the best one to start with](https://github.com/opennukit/Nukit-Open-Upper-Room-UVGI/tree/main/LaserCut/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture/Nukit%20Open%20Upper%20Room%20UVGI%20Pendent%20Fixture%202mm%20Flat%20Pack%20V2), it is nested and shippable. Secures with zip-ties, forming an extremely robust solid block that stacks and stands up well to rough handling.
 
