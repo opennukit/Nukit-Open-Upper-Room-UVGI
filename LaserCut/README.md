@@ -1,12 +1,12 @@
-# Laser-Cut Nukit Open Upper Room UVGI
+# Laser-Cut Nukit Open Upper-Room UVGI
 
-Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable. 
+Laser-Cut Nukit Open Upper-Room UVGI fixtures are designed to be made on laser diode or CO2 laser cutters, anywhere in the world, from local materials. They cost a fraction of the price of commercial UR-UVGI fixtures and can be customized to suit local conditions. They do, however, require careful installation by trained technicians. Once that's done, they are extremely effective, safe, and inexpensive to operate.
 
 **Pendent Style- Wood**
 ---
-This is a very powerful, very low-cost mitigation tool that can be rapidly deployed in disaster areas, field hospitals, refugee camps, commandeered auditoriums and gymnasiums- any place that is large, crowded, has high ceilings and is high risk for aerosol transmission. 
+This is a very powerful, very low-cost mitigation tool that, with appropriate training, can be rapidly deployed in disaster areas, field hospitals, refugee camps, commandeered auditoriums and gymnasiums. Any place that is large, crowded, has high ceilings and is high risk for aerosol transmission. 
 
-- When cut out of 2mm plywood the cost is about 8USD. Combine with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/)(5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/)(10USD) and a 35w UVC CFL bulb there is very little light leakage below the fixture. The irradiation field is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
+- When cut out of 2mm plywood the cost is about 8USD. Combined with an Ikea [STRÅLA](https://www.ikea.com/us/en/p/strala-cord-set-white-90371505/) (5USD) or [HEMMA](https://www.ikea.com/us/en/p/hemma-cord-set-white-50386580/) (10USD) and a UVC CFL bulb there is very little light leakage below the fixture. The irradiation field is 360° and 3° down (see diagram). As such, very little light is wasted, and they are extremely efficient.
 
 At and above ahorizontal plane the output level is approximately:  
 16μW/cm2 @ 1m  
